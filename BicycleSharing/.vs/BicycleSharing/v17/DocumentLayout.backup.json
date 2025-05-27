@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\AccountCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\AccountCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\AccountCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\AccountCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\ExitController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\ExitUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\ExitController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\ExitUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\BicycleInquiryController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD89131C-55F8-4685-AC29-6226979D5EE7}|BicycleSharing\\BicycleSharing.vcxproj|solutionrelative:BicycleSharing\\BicycleInquiryController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 582,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\output.txt",
+              "RelativeDocumentMoniker": "BicycleSharing\\output.txt",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\output.txt",
+              "RelativeToolTip": "BicycleSharing\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T03:54:52.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountCollection.h",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\AccountCollection.h",
+              "RelativeDocumentMoniker": "BicycleSharing\\AccountCollection.h",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\AccountCollection.h",
+              "RelativeToolTip": "BicycleSharing\\AccountCollection.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T03:45:03.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BicycleInquiryController.cpp",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\BicycleInquiryController.cpp",
+              "RelativeDocumentMoniker": "BicycleSharing\\BicycleInquiryController.cpp",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\BicycleInquiryController.cpp",
+              "RelativeToolTip": "BicycleSharing\\BicycleInquiryController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T03:44:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountCollection.cpp",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\AccountCollection.cpp",
+              "RelativeDocumentMoniker": "BicycleSharing\\AccountCollection.cpp",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\AccountCollection.cpp",
+              "RelativeToolTip": "BicycleSharing\\AccountCollection.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T03:36:38.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExitUI.cpp",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitUI.cpp",
+              "RelativeDocumentMoniker": "BicycleSharing\\ExitUI.cpp",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitUI.cpp",
+              "RelativeToolTip": "BicycleSharing\\ExitUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T03:19:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExitUI.h",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitUI.h",
+              "RelativeDocumentMoniker": "BicycleSharing\\ExitUI.h",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitUI.h",
+              "RelativeToolTip": "BicycleSharing\\ExitUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T03:13:13.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\main.cpp",
+              "RelativeDocumentMoniker": "BicycleSharing\\main.cpp",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\main.cpp",
+              "RelativeToolTip": "BicycleSharing\\main.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T02:46:58.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "58022f53-1b11-4cd9-87ca-948a5ac39eca",
+        "Display": 0,
+        "X": -5,
+        "Y": 0,
+        "Width": 1067,
+        "Height": 1037,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExitController.cpp",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitController.cpp",
+              "RelativeDocumentMoniker": "BicycleSharing\\ExitController.cpp",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitController.cpp",
+              "RelativeToolTip": "BicycleSharing\\ExitController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T03:15:46.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExitController.h",
+              "DocumentMoniker": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitController.h",
+              "RelativeDocumentMoniker": "BicycleSharing\\ExitController.h",
+              "ToolTip": "C:\\Users\\lsgls\\Documents\\GitHub\\SWE-C011167\\BicycleSharing\\BicycleSharing\\ExitController.h",
+              "RelativeToolTip": "BicycleSharing\\ExitController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T03:12:47.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
