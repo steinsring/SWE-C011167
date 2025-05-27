@@ -8,8 +8,8 @@ class Member : public Account
 {
 private:
 	std::string phone = "";			// 회원의 전화번호
-	int rent_bicycle_count = 0;
-	Bicycle rent_bicycle_list[100];	//현재 대여하고 있는 자전거 리스트
+	int rent_bicycle_count = 0;		// 현재 대여하고 있는 자전거 개수
+	Bicycle rent_bicycle_list[100];	// 현재 대여하고 있는 자전거 리스트
 public:
 	// ID, 비밀번호, 전화번호를 받아 회원 객체를 생성
 	Member(std::string id = "", std::string password = "", std::string phone = ""); 

@@ -9,12 +9,12 @@ class LogoutUI;
 class LoginController;
 
 // 로그아웃(logout) 프로세스를 제어
-// 사용자입력(logoutUI)과 LoginController 사이를 제어
+// 사용자입력(logoutUI)을 받아 LoginController에 접근해 시스템 접속을 종료한다.
 class LogoutController
 {
 private:
-	LogoutUI* logout_UI;				// UI를 위한 boundary class pointer
-	LoginController* login_controller;	// 현재 로그인 계정 정보를 가지고있는 control class
+	LogoutUI* logout_UI;					// UI를 위한 boundary class pointer
+	LoginController* login_controller;		// 현재 로그인 계정 정보를 가지고있는 control class
 	Account* logout_account;				// 로그아웃하는 계정 정보 임시 저장
 	
 public:

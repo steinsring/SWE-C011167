@@ -10,7 +10,7 @@ class JoinUI;
 class AccountCollection;
 
 // 회원가입(join) 프로세스를 제어
-// 사용자입력(JoinUI)과 AccountCollection 사이를 제어
+// 사용자입력(JoinUI)을 받아 AccountCollection에 새로운 Member를 생성한다.
 class JoinController
 {
 private:

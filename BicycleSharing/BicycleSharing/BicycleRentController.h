@@ -9,7 +9,7 @@
 class BicycleRentUI;
 
 // 자전거 대여(rent) 프로세스를 제어
-// 사용자입력(BicycleRentUI)와 LoginController, BicycleCollection, Member 사이를 제어
+// 사용자입력(BicycleRentUI)을 받아 LoginController와 BicycleCollection, Member에 접근해 자전거 대여를 진행한다.
 class BicycleRentController
 {
 private:

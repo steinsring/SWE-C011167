@@ -9,6 +9,8 @@
 class BicycleRegistUI;
 class BicycleCollection;
 
+// 자전거 등록 프로세스를 제어하는 클래스
+// 사용자 입력값을 받아 BicycleCollection에 새로운 Bicycle을 만든다.
 class BicycleRegistController
 {
 private:

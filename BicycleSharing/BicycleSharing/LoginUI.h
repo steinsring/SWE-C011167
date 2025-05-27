@@ -4,6 +4,7 @@
 
 class LoginController; // 전방선언
 
+// 사용자와 상호작용하여 정보를 입력받고 로그인 정보를 출력하는 boundary class
 class LoginUI
 {
 private:

@@ -5,6 +5,7 @@
 
 class LogoutController; // 전방선언
 
+// 사용자와 상호작용해 로그아웃 정보를 입력받고 로그아웃 ID를 출력한다.
 class LogoutUI
 {
 private:

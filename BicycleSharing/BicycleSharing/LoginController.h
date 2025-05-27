@@ -10,7 +10,7 @@ class LoginUI;
 class AccountCollection;
 
 // 로그인(login) 프로세스를 제어
-// 사용자입력(LoginUI)과 AccountCollection 사이를 제어
+// 사용자입력(LoginUI)을 받아 AccountCollection에서 현재 로그인하는 account를 찾아 저장한다.
 class LoginController
 {
 private:

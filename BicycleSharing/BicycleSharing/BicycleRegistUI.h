@@ -5,7 +5,7 @@
 //전방선언
 class BicycleRegistController;
 
-// 사용자의 입력을 받아 자전거 등록을 처리하는 boundary class
+// 사용자의 입력을 받아 자전거 등록을 처리하고 정보를 출력하는 boundary class
 class BicycleRegistUI
 {
 private:

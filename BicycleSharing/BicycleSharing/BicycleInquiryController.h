@@ -14,7 +14,7 @@ class BicycleInquiryController
 private:
 	BicycleInquiryUI* bicycle_inqury_UI;		// UI를 위한 boundary class pointer
 	LoginController* login_controller;			// 대여한 자전거를 출력하기 위해 현재 로그인한 계정 연결을 위함
-	int rent_bicycle_count;
+	int rent_bicycle_count;						// 대여한 자전거의 개수
 	Bicycle* rent_bicycle_list;					// 현재 자전거 대여 리스트 정보 임시 저장
 public:
 	// 생성자 : boundary class 생성 및 초기화, contorl class 연결

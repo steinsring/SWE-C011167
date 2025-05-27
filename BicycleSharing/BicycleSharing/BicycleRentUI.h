@@ -5,7 +5,7 @@
 //전방선언
 class BicycleRentController;
 
-// 사용자와의 자전거 대여 상호작용을 처리하는 boundary class
+// 사용자와의 상호작용으로 자전거 정보을 읽고 대여한 자전거 정보를 출력하는 boundary class
 class BicycleRentUI
 {
 private:
